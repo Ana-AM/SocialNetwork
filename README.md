@@ -4,8 +4,8 @@
 ##### EQUIPO DE DESARROLLO
 - Juan Carlos Postigo Cabana
 - Aquino Mamani Ana Karina
-- Soto Huerta Angela
-- Colque Noa Valery
+- Soto Huerta Angela Shirleth
+- Colque Noa Valery Andrea
 
 ### INTRODUCCIÓN
 Nuestro proyecto final es una **Red Social** que fue diseñada con el objetivo de consolidar los conceptos reacionados con el curso **Desarrollo Basado En Plataformas**.  Somos un grupo conformado por cinco estudiantes de la carrera Ciencia de la Computación.
@@ -84,7 +84,7 @@ Las propias consultas son también JSON, por lo que se programan fácilmente. Ol
 #### INSTALACIÓN
  Clone este repositorio con la linea de comando o descargue y descomprima la carpeta zip con el código del repositorio.
 ```shell 
-git clone https://github.com/JPostigo48/DBP-B-Social-Network-EPCC.git
+git clone https://github.com/Ana-AM/SocialNetwork.git
 ```
 #### Inicialización Backend
 - Abrir una consola cmd en la carpeta base del proyecto.
