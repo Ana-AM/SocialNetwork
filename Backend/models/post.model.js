@@ -21,10 +21,6 @@ const postSchema = new mongoose.Schema({
   labels: [{
     type: String,
   }],
-  fav: [{
-    type: mongoose.Schema.Types.ObjectID,
-    ref:'User',
-  }],
   likes: [{
     type: mongoose.Schema.Types.ObjectID,
     ref:'User',
