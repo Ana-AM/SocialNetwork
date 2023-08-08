@@ -1,12 +1,11 @@
-# DBP-B-Social-Network-EPCC
+# DBP-SocialNetwork
 # PROYECTO FINAL
 
 ##### EQUIPO DE DESARROLLO
-- Juan Manuel Soto Begazo 
 - Juan Carlos Postigo Cabana
-- Samuel Chambi Ytusaca
-- Alejandro Villa Herrera
-- Julio Enrique Yauri  Ituccayasi
+- Aquino Mamani Ana Karina
+- Soto Huerta Angela
+- Colque Noa Valery
 
 ### INTRODUCCIÓN
 Nuestro proyecto final es una **Red Social** que fue diseñada con el objetivo de consolidar los conceptos reacionados con el curso **Desarrollo Basado En Plataformas**.  Somos un grupo conformado por cinco estudiantes de la carrera Ciencia de la Computación.
