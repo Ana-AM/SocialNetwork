@@ -27,12 +27,7 @@ const Home = (req, res) => {
           <p className="parraf">
             Nuestro proyecto final es una Red Social que fue diseñada con el
             objetivo de consolidar los conceptos reacionados con el curso
-            Desarrollo Basado En Plataformas. Somos un grupo conformado por
-            cinco estudiantes de la carrera Ciencia de la Computación. La Red
-            Social fue creada con el objetivo de facilitar la publicación de
-            articulos relacionados con nuestra carrera, con el fin de promover
-            la investigación y servir como red de información privada para los
-            alumnos de Ciencia de la Computación.{" "}
+            Desarrollo Basado En Plataformas.{" "}
           </p>
 
           <p className="parraf">
@@ -47,10 +42,10 @@ const Home = (req, res) => {
       <Row>
         <h1 className="section-title">Contacto</h1>
         <Col className="mt-5">
-          <Contact img={home} name="Juan Manuel Soto" area="Suport" />
+          <Contact img={home} name="Angela Soto" area="Suport" />
         </Col>
         <Col className="mt-5">
-          <Contact img={home} name="Julio Enrique Yauri" area="Suport" />
+          <Contact img={home} name="Valery Colque" area="Suport" />
         </Col>
         <Col className="mt-5">
           <Contact img={home} name="Juan Carlos Postigo" area="Suport" />
@@ -59,10 +54,10 @@ const Home = (req, res) => {
 
       <Row className="mb-5">
         <Col className="mt-5">
-          <Contact img={home} name="Samuel Chambi Ytusaca" area="Suport" />
+          <Contact img={home} name="Juan Carlos Postigo" area="Suport" />
         </Col>
         <Col className="mt-5">
-          <Contact img={home} name="Alejandro Villa" area="Suport" />
+          <Contact img={home} name="Angela Soto" area="Suport" />
         </Col>
         <Col className="mt-5"></Col>
       </Row>
